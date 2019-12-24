@@ -1,0 +1,26 @@
+{
+  "name": "node-upload",
+  "version": "1.0.0",
+  "description": "File uploader made with Node.js and Formidable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HDK101/node-upload.git"
+  },
+  "keywords": [
+    "Upload",
+    "File"
+  ],
+  "author": "EMKBRO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HDK101/node-upload/issues"
+  },
+  "homepage": "https://github.com/HDK101/node-upload#readme",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
